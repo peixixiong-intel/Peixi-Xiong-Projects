@@ -29,7 +29,7 @@ An internal research prototype exploring agent based pipelines for document grou
 ---
 
 ## Internal Agentic Hybrid AI Workbench (Intel, Confidential)
-🔗 [Repository](https://github.com/intel-sandbox/multi-agent-workbench-eval-gdpval-opencode)
+🔗 [Repository](https://github.com/intel-sandbox/multi-agent-workbench-eval-gdpval)
 
 Internal workbench for running agentic, hybrid AI workflows grounded in proprietary documents, with structured task execution and traceable outputs.
 
