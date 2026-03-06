@@ -28,6 +28,13 @@ An internal research prototype exploring agent based pipelines for document grou
 
 ---
 
+## Internal Agentic Hybrid AI Workbench (Intel, Confidential)
+🔗 [Repository](https://github.com/intel-sandbox/multi-agent-workbench-eval-gdpval-opencode)
+
+Internal workbench for running agentic, hybrid AI workflows grounded in proprietary documents, with structured task execution and traceable outputs.
+
+---
+
 ## Structured Alignment VQA (Microsoft Research Internship)
 🔗 [Repository](https://github.com/Peixixiong/Structured-Alignment-VQA)  
 📄 [Paper](https://arxiv.org/pdf/2201.10654)
