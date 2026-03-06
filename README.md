@@ -30,6 +30,6 @@ An internal research prototype exploring agent based pipelines for document grou
 
 ## Structured Alignment VQA (Microsoft Research Internship)
 🔗 [Repository](https://github.com/Peixixiong/Structured-Alignment-VQA)  
-📄 [Paper](https://arxiv.org/abs/2201.10654)
+📄 [Paper](https://arxiv.org/pdf/2201.10654)
 
 A Visual Question Answering approach that improves cross modal reasoning through structured alignment between visual regions and semantic representations, developed during a Microsoft Research internship.
